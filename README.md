@@ -1,1 +1,2 @@
-# practical_class
+# Practical Class
+##  used in practical sessions of 'Introduction to Bioinformatics' course
