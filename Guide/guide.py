@@ -1,7 +1,3 @@
-###################################################
-# This module is a supplement to the Python guide #
-# Version 2017.3  (10/03/2017)                    #
-###################################################
 '''
 This module contains code that can help solve bioinformatics problems.
 See the accompanying Python guide document for more explanations and examples.
@@ -23,10 +19,6 @@ the class will help to index expression data by gene name (rows) and by sample n
 
 There are several methods not tied to a particular class because they construct new instances,
 e.g. reading from file, retrieving from the internet, creating an alignment from sequences etc.
-
-You need to have numpy installed (see http://www.numpy.org/).
-Should work with Python v3.5 (see http://www.python.org/).
-The code may contain bugs--please report to m.boden@uq.edu.au
 '''
 
 import math, numpy, urllib.request, urllib.parse, urllib.error, urllib.request, urllib.error, urllib.parse
